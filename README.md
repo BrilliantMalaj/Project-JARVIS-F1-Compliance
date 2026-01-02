@@ -34,3 +34,9 @@ The primary challenge was **Data Integrity** within the FIA PDF Technical Tables
 2.  **Ingest Data:** Run `Workflow_A_Ingestion.json` with `2026_Formula1_Technical_Regulations.pdf`.
 3.  **Execute Query:** Run `Workflow_B_Agent.json`.
     * *Query:* "What are the Z-height limits for the Front Wing Pylon?"
+
+
+
+   <img width="587" height="497" alt="image" src="https://github.com/user-attachments/assets/7683c43f-0e08-4660-b46a-5aa2c00e6902" />
+
+   <img width="1393" height="559" alt="image" src="https://github.com/user-attachments/assets/265be947-3d42-4563-9c59-1bc8bdcfd1fa" />
